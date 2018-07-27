@@ -1,5 +1,6 @@
 // Import the mount() method from the test utils
 // and the component you want to test
+// update test from Perry
 import { mount } from '@vue/test-utils'
 import Counter from './counter'
 
